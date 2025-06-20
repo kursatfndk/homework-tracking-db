@@ -23,6 +23,10 @@ Yeni başlayanlar için örnek teşkil edecek bir SQL veritabanı iskeleti oluş
 1. `db_odevTakip.sql` dosyasını indirin.
 2. SQL Server veya benzeri bir sistemde çalıştırarak veritabanını oluşturun.
 
+**Proje Türü:** 📂 SQL Veritabanı
+
+**Ana Teknoloji:** `SQL`
+
 ---
 
 # Homework Tracking System - SQL Database
