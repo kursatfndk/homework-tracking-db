@@ -1,4 +1,3 @@
-# homework-tracking-db
 # Ödev Takip Sistemi - SQL Veritabanı
 
 Bu proje, öğrencilerin ödev takibini sağlamak amacıyla oluşturulmuş temel bir SQL veritabanı yapısını içerir. Python öğrenim sürecinden sonra SQL pratiği yapmak amacıyla geliştirilmiştir.
